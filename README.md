@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Muhammad Hamza
 
-<!--
-**Hamza-dev0444/Hamza-dev0444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Next.js Developer
 
-Here are some ideas to get you started:
+🚀 Building modern websites with:
+- Next.js
+- React
+- Tailwind CSS
+- GSAP
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+🎵 Moti Music
+💼 Portfolio Website
+
+## Connect With Me
+
+Portfolio:
+LinkedIn:
+Email: hamzatig05@gmail.com
