@@ -69,6 +69,8 @@
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
+![MongoDB](https://img.shields.io/badge/MongoDB-06B6D4?style=for-the-badge&logo=MongoDB)
+
 
 
 
