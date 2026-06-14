@@ -28,10 +28,30 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning Next.js
-- 🎵 Building Moti Music
-- 💻 Frontend Developer
-- 🚀 Creating Modern Websites
+ 👨‍💻 About Me
+
+- 💻 Full-Stack Developer building modern web apps  
+- 🌐 Focused on clean UI/UX and smooth user experiences  
+- 🤖 Interested in AI + Web Development  
+- ⚡ Skilled in HTML, CSS, JavaScript, React, Next.js  
+
+---
+
+## 🧠 Mindset
+
+- 🔍 Curious about how systems work  
+- ⚡ Write clean and efficient code  
+- 🚀 Turn ideas into real projects  
+- 📈 Always learning and improving  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build real-world impactful apps  
+- 🧑‍🏫 Teach coding to beginners  
+- 💡 Create innovative digital products  
+- 🌍 Grow as a professional developer  
 
 ---
 
